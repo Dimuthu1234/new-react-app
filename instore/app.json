@@ -1,0 +1,40 @@
+{
+  "expo": {
+    "name": "instore",
+    "description": "This project is really great.",
+    "slug": "instore",
+    "privacy": "public",
+    "sdkVersion": "30.0.0",
+    "platforms": [
+      "ios",
+      "android"
+    ],
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/icon.png",
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#ffffff"
+    },
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
+    "assetBundlePatterns": [
+      "**/*"
+    ],
+    "ios": {
+      "supportsTablet": true
+    },
+    "facebookAppId": "1648918441921519",
+    "facebookScheme": "fb1648918441921519",
+    "facebookDisplayName": "InStore",
+    "extra": {
+      "googleAppId": {
+        "ios": "649305262284-kpn7dt2jvgaapgjqpbppa8i7qgo8o4h8.apps.googleusercontent.com",
+        "android": "649305262284-pl3udn4ijebhpb5r6nbjbqugknlucg55.apps.googleusercontent.com"
+      }
+    },
+    "githubUrl": "https://github.com/Dimuthu1234/react-native.git"
+  }
+}
